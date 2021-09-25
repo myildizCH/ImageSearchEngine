@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Image Search Engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Image Search Engine allows user to search for images by using keywords. The related images are then displayed on the screen.
 
 ## Available Scripts
 
